@@ -18,11 +18,13 @@
 .cart-1{
     border: 1px solid rgb(47, 47, 47);
     border-radius: 15px;
+    box-shadow: 0 0 10px rgba(75, 75, 143, 0.281);
     /* height: 250px; */
 }
 .cart-1 img{
     border-radius: 15px 15px 0 0;
     padding-bottom: autp;
+    height: auto;
 }
 .cart-1 button{
     border-radius: 0 0 15px 15px;
